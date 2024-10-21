@@ -1,0 +1,27 @@
+#root{
+    color: white;
+}
+.pizza{
+    margin-top: 300px;
+}
+.nr{
+    float: right;
+}
+.nazwa{
+    float: right;
+    margin-bottom:50px;
+}
+.rozmiar{
+    float: right;
+}
+.opis{
+    margin-top: 0px;
+    float: right;
+}
+.zdjecie{
+    float: left;
+}
+img:hover{
+    width: 120%;
+    height: 120%;
+}

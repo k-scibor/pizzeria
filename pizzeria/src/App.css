@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('tlo.jpg');
+}
+h1 {
+    float: right;
+    color: white;
+}
+img:hover{
+    block-size: 120%;
+}
